@@ -5,9 +5,9 @@ An **OBJECT ORIENTED METHOLOGIES** Project.
 Generates timetable for multiple classes with a specified number of subjects and their details using **GENETIC ALGORITHM**.
 
 ## Language
-```
-Java and XML
-```
+<img src="https://img.shields.io/badge/language-java-orange.svg"/>
+<img src="https://img.shields.io/badge/language-xml-brightgreen.svg"/>
+
 ## main() function BasicForm class.
 ```
 >  Executable .jar file available in dist folder.
